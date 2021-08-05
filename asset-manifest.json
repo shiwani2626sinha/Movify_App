@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Movify_App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Movify_App/static/js/main.e04123f3.chunk.js",
+    "main.js.map": "/Movify_App/static/js/main.e04123f3.chunk.js.map",
+    "runtime-main.js": "/Movify_App/static/js/runtime-main.a364cccb.js",
+    "runtime-main.js.map": "/Movify_App/static/js/runtime-main.a364cccb.js.map",
+    "static/js/2.b3a2f743.chunk.js": "/Movify_App/static/js/2.b3a2f743.chunk.js",
+    "static/js/2.b3a2f743.chunk.js.map": "/Movify_App/static/js/2.b3a2f743.chunk.js.map",
+    "index.html": "/Movify_App/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Movify_App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b3a2f743.chunk.js.LICENSE.txt": "/Movify_App/static/js/2.b3a2f743.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a364cccb.js",
+    "static/js/2.b3a2f743.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e04123f3.chunk.js"
+  ]
+}
